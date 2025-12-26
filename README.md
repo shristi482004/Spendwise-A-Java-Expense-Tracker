@@ -13,6 +13,8 @@ This project focuses on **clarity of design, data handling, and real-world usabi
 Most people spend money daily on food, shopping, subscriptions, travel, and utilities — but rarely track where it actually goes.  
 SpendWise solves this by providing a **structured, repeatable, and analyzable way to log financial transactions** and generate meaningful summaries.
 
+SpendWise is especially relevant for college students who are managing money independently for the first time. Most students operate on a fixed monthly allowance or limited income, without full financial freedom, and often struggle to understand where their money goes. Small, frequent expenses like food orders, subscriptions, travel, and shopping quickly add up, leading to overspending without realization. SpendWise helps students build early financial discipline by making every expense visible, categorized, and measurable. By tracking spending patterns, comparing income against expenses, and viewing category-wise summaries, students can learn responsible money management habits early, which is a critical life skill often missing from formal education.
+
 This project was designed to:
 - encourage disciplined money tracking
 - make spending patterns visible
