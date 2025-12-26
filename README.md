@@ -128,6 +128,31 @@ Food          : Rs. 450.0
 
 ---
 
+## Sample Output
+
+### Menu
+<img width="1620" height="370" alt="image" src="https://github.com/user-attachments/assets/d7446dda-3fc2-42ee-a57b-ace3611df146" />
+
+
+### Adding Expenses
+<img width="1620" height="1434" alt="image" src="https://github.com/user-attachments/assets/b658ba58-00f0-45be-ac43-8c1a04b10e67" />
+
+
+### Adding Income
+<img width="1620" height="422" alt="image" src="https://github.com/user-attachments/assets/aa24c6eb-20c7-4e5b-b754-c342aa0e4133" />
+
+
+#### Transaction Management
+<img width="1620" height="556" alt="image" src="https://github.com/user-attachments/assets/96241d3f-c53a-48cf-a87f-955f4584516f" />
+
+
+### Monthly Report
+<img width="1620" height="700" alt="image" src="https://github.com/user-attachments/assets/147672a2-3235-4941-a365-5f2ca7506b74" />
+
+
+
+---
+
 ## Project Architecture
 
 The project follows a **modular, responsibility-driven design**.
