@@ -288,7 +288,7 @@ It demonstrates:
 Computer Science Undergraduate  
 Interested in software engineering, system design, and real-world problem solving.
 
----
+
 
 If you found this project interesting or have suggestions for improvement, feel free to open an issue or contribute.
 
